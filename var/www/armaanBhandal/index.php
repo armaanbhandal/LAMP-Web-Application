@@ -1,0 +1,1 @@
+<?php echo 'It works! This is armaanBhandal LAMP site.'; ?>
